@@ -1,0 +1,10 @@
+.user-input-container {
+    margin-bottom: 15px;
+}
+
+.user-input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
